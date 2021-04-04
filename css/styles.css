@@ -197,11 +197,11 @@ body {
   display: table-row;
 }
 
-/*.table .cell {
+.table .cell {
   display: table-cell;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
