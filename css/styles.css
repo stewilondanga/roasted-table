@@ -166,11 +166,12 @@ body {
   text-align: center;
 }
 
-/*.morph-card .data .price,
+.morph-card .data .price,
 .morph-card .data .price input {
   text-align: right;
 }
-.morph-card .cell {
+
+/*.morph-card .cell {
   line-height: 2;
 }
 .morph-card input {
