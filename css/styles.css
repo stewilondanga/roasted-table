@@ -124,14 +124,15 @@ body {
   padding: 1em 2em 2em;
 }
 
-/*.morph-card.active input {
+.morph-card.active input {
   font-size: 0.9em;
   padding: 0.2em;
   background: #fff;
   border: 1px solid rgba(46, 10, 5, 0.2);
   pointer-events: all;
 }
-.morph-card header {
+
+/*.morph-card header {
   white-space: nowrap;
   display: flex;
   justify-content: space-between;
