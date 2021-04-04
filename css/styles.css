@@ -161,11 +161,12 @@ body {
   width: 15%;
 }
 
-/*.morph-card .data .quantity,
+.morph-card .data .quantity,
 .morph-card .data .quantity input {
   text-align: center;
 }
-.morph-card .data .price,
+
+/*.morph-card .data .price,
 .morph-card .data .price input {
   text-align: right;
 }
