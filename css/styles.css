@@ -143,11 +143,12 @@ body {
   font-weight: 700;
 }
 
-/*.morph-card header .edit {
+.morph-card header .edit {
   text-decoration: none;
   color: #33575B;
 }
-.morph-card .heading {
+
+/*.morph-card .heading {
   color: #AD6A1D;
 }
 .morph-card .data .name {
