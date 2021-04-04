@@ -171,10 +171,11 @@ body {
   text-align: right;
 }
 
-/*.morph-card .cell {
+.morph-card .cell {
   line-height: 2;
 }
-.morph-card input {
+
+/*.morph-card input {
   width: 100%;
   display: inline-block;
   font-size: 1em;
