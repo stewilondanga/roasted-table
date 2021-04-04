@@ -12,7 +12,7 @@ const card = document.querySelector('.morph-card');
 let active = false;
 
 
-/*editBtn.addEventListener('click', e => {
+editBtn.addEventListener('click', e => {
   e.preventDefault();
   card.classList.toggle('active');
   active = !active;
