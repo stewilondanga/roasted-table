@@ -156,11 +156,12 @@ body {
   width: 60%;
 }
 
-/*.morph-card .data .quantity,
+.morph-card .data .quantity,
 .morph-card .data .price {
   width: 15%;
 }
-.morph-card .data .quantity,
+
+/*.morph-card .data .quantity,
 .morph-card .data .quantity input {
   text-align: center;
 }
