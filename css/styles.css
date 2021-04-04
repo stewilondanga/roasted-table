@@ -119,11 +119,12 @@ body {
   will-change: width, padding;
 }
 
-/*.morph-card.active {
+.morph-card.active {
   width: 25em;
   padding: 1em 2em 2em;
 }
-.morph-card.active input {
+
+/*.morph-card.active input {
   font-size: 0.9em;
   padding: 0.2em;
   background: #fff;
