@@ -105,12 +105,11 @@ body {
   transition-delay: 0.3s;
 }
 
-/*.share-button:hover .share__link:nth-of-type(4) {
+.share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
 }
 
-
-.morph-card {
+/*.morph-card {
   background-color: #D0DFE4;
   width: 18em;
   padding: 1em;
