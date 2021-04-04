@@ -132,13 +132,14 @@ body {
   pointer-events: all;
 }
 
-/*.morph-card header {
+.morph-card header {
   white-space: nowrap;
   display: flex;
   justify-content: space-between;
   margin-bottom: 1em;
 }
-.morph-card header h4 {
+
+/*.morph-card header h4 {
   font-weight: 700;
 }
 .morph-card header .edit {
