@@ -109,7 +109,7 @@ body {
   transition-delay: 0.4s;
 }
 
-/*.morph-card {
+.morph-card {
   background-color: #D0DFE4;
   width: 18em;
   padding: 1em;
@@ -118,7 +118,8 @@ body {
   transition: all 400ms cubic-bezier(0.33, -0.64, 0.31, 1.4);
   will-change: width, padding;
 }
-.morph-card.active {
+
+/*.morph-card.active {
   width: 25em;
   padding: 1em 2em 2em;
 }
