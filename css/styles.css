@@ -193,10 +193,11 @@ body {
   display: table;
 }
 
-/*.table .row {
+.table .row {
   display: table-row;
 }
-.table .cell {
+
+/*.table .cell {
   display: table-cell;
 }
 
