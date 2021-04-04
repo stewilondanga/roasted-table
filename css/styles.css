@@ -188,11 +188,12 @@ body {
   pointer-events: none;
 }
 
-/*.table {
+.table {
   width: 100%;
   display: table;
 }
-.table .row {
+
+/*.table .row {
   display: table-row;
 }
 .table .cell {
