@@ -148,10 +148,11 @@ body {
   color: #33575B;
 }
 
-/*.morph-card .heading {
+.morph-card .heading {
   color: #AD6A1D;
 }
-.morph-card .data .name {
+
+/*.morph-card .data .name {
   width: 60%;
 }
 .morph-card .data .quantity,
