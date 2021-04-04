@@ -139,10 +139,11 @@ body {
   margin-bottom: 1em;
 }
 
-/*.morph-card header h4 {
+.morph-card header h4 {
   font-weight: 700;
 }
-.morph-card header .edit {
+
+/*.morph-card header .edit {
   text-decoration: none;
   color: #33575B;
 }
